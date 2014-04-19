@@ -1,0 +1,26 @@
+{
+  "name": "emberjs-skunkworks",
+  "version": "0.0.0",
+  "description": "starter-kit ===========",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dlmanning/emberjs-skunkworks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlmanning/emberjs-skunkworks/issues"
+  },
+  "homepage": "https://github.com/dlmanning/emberjs-skunkworks",
+  "devDependencies": {
+    "gulp-es6-module-transpiler": "^0.1.1",
+    "gulp": "^3.6.1"
+  }
+}
